@@ -143,4 +143,4 @@ Gallery:
 - Confirm exact Google Maps pin label and any additional collection hubs.
 - Confirm whether to add Google Analytics or Tag Manager.
 - Confirm legal business address and social links.
-- Confirm final metrics beyond 32 staff and 80+ dependants.
+- Confirm final metrics beyond 32 staff and 200+ dependants.
