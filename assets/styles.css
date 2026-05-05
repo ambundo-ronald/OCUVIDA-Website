@@ -391,6 +391,44 @@ h3 {
   min-height: 280px;
 }
 
+.partners-section {
+  background: var(--color-surface);
+}
+
+.partner-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.partner-logo {
+  display: grid;
+  grid-template-rows: 150px auto;
+  gap: 12px;
+  align-items: center;
+  justify-items: center;
+  padding: 18px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  background: #fff;
+  min-width: 0;
+}
+
+.partner-logo img {
+  max-width: 100%;
+  max-height: 140px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.partner-logo span {
+  color: var(--color-subtle);
+  font-weight: 800;
+  text-align: center;
+  font-size: 0.92rem;
+}
+
 .visual-hero {
   padding-bottom: 72px;
 }
@@ -972,7 +1010,8 @@ textarea {
   .investor-grid,
   .investor-hero-grid,
   .thesis-grid,
-  .ask-panel {
+  .ask-panel,
+  .partner-grid {
     grid-template-columns: 1fr;
   }
 
