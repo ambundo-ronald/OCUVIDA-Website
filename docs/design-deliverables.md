@@ -6,7 +6,7 @@
 - What We Do: detailed services, sorting process, partnerships, community benefits, sustainability story.
 - Operations: receiving, sorting, storage, dispatch, facility proof, and operational discipline.
 - Impact: social, environmental, economic, and operational impact metrics and reporting framework.
-- Investor Brief: problem, solution, investment case, growth plan, and partnership needs.
+- Growth Brief: problem, solution, growth case, growth plan, and partnership needs.
 - Gallery: filtered glass-recycling operations gallery with lightbox captions.
 
 ## Low-Fidelity Wireframes
@@ -60,7 +60,7 @@ Operations:
 1. Visual hero with receiving-area photo.
 2. Four-step operations board.
 3. Photo proof section for receiving, sorting, and dispatch.
-4. Investor confidence CTA.
+4. Growth brief CTA.
 
 Impact:
 1. Visual hero focused on community and aggregator value.
@@ -68,8 +68,8 @@ Impact:
 3. Impact reporting framework.
 4. Before, during, after impact story.
 
-Investor Brief:
-1. Investor hero with current proof points.
+Growth Brief:
+1. Growth hero with current proof points.
 2. Problem and solution thesis.
 3. Investment case grid.
 4. Growth plan with operations photos.
@@ -143,4 +143,4 @@ Gallery:
 - Confirm exact Google Maps pin label and any additional collection hubs.
 - Confirm whether to add Google Analytics or Tag Manager.
 - Confirm legal business address and social links.
-- Confirm final metrics beyond 14 employees and 80+ dependants.
+- Confirm final metrics beyond 32 staff and 80+ dependants.
