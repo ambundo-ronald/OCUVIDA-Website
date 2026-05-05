@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">OCUVIDA glass bottle recycling logo</title>
+  <desc id="desc">A glass bottle with circular recycling arrows in green.</desc>
+  <rect width="240" height="240" rx="48" fill="#0B5D3B"/>
+  <path d="M73 80c14-22 39-36 67-33 16 2 31 8 43 18l-15 3c-5 1-8 6-7 11s6 8 11 7l38-8c5-1 8-6 7-11l-8-38c-1-5-6-8-11-7s-8 6-7 11l3 14A97 97 0 0 0 58 70c-3 4-2 10 2 13s10 2 13-3Z" fill="#D9F5E3"/>
+  <path d="M168 160c-14 22-39 36-67 33-16-2-31-8-43-18l15-3c5-1 8-6 7-11s-6-8-11-7l-38 8c-5 1-8 6-7 11l8 38c1 5 6 8 11 7s8-6 7-11l-3-14a97 97 0 0 0 136-23c3-4 2-10-2-13s-10-2-13 3Z" fill="#F2B84B"/>
+  <path d="M103 45h34v31c0 11 17 22 17 48v48c0 16-13 29-29 29h-10c-16 0-29-13-29-29v-48c0-26 17-37 17-48V45Z" fill="#FFFFFF"/>
+  <path d="M104 125h32v43c0 7-5 12-12 12h-8c-7 0-12-5-12-12v-43Z" fill="#2F8F5B"/>
+  <path d="M106 61h28v17h-28z" fill="#D9F5E3"/>
+</svg>
